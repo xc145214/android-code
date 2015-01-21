@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<citys>
+	<city>
+		<name>北京</name>
+	</city>
+	<city>
+		<name>上海</name>
+	</city>
+	<city>
+		<name>广州</name>
+	</city>
+	<city>
+		<name>贵州</name>
+	</city>
+</citys>

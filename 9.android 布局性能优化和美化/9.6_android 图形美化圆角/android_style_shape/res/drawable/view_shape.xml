@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <gradient
+        android:endColor="#CCCCCC"
+        android:startColor="#CCCCCC" >
+    </gradient>
+
+    <corners
+        android:topLeftRadius="12dp"
+        android:topRightRadius="12dp" >
+    </corners>
+
+    <size
+        android:height="100dp"
+        android:width="200dp" />
+
+    <stroke
+        
+        android:dashWidth="3dp"
+        android:width="3dp"
+        android:color="#FFDDCC" >
+    </stroke>
+    <!--
+     填充图形的颜色
+    <solid android:color="#000000"/>
+    -->
+
+</shape>
